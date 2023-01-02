@@ -35,18 +35,18 @@ a {
     background:radial-gradient(circle at 6% 12%, rgba(0, 27, 177, 1) 0%, rgba(58, 82, 213, 1) 0%, rgba(4, 14, 66, 1) 100%);
 }
 
-.gradient-text {
+.gradient__text{
   background: var(--gradient-text);
   background-clip: text;
   -webkit-background-clop: text;
   -webkit-text-fill-color:transparent;
 }
 
-.section-padding{
+.section__padding{
   padding: 4rem 6rem;
 }
 
-.section-margin {
+.section__margin {
   margin: 4rem 6rem;
 }
 
