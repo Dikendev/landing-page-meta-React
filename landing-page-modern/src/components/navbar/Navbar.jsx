@@ -6,10 +6,10 @@ import './navbar.css';
 function Menu() {
   return (
     <>
-      <p> <a href="#home">home</a></p>
-      <p> <a href="#home">sec2</a></p>
-      <p> <a href="features">about</a></p>
-      <p> <a href="#Blog">fale conosco</a></p>
+      <p> <a href="#home">Home</a></p>
+      <p> <a href="#home">Sec 2</a></p>
+      <p> <a href="features">About</a></p>
+      <p> <a href="#Blog">Fale Conosco</a></p>
     </>      
   )
 }
