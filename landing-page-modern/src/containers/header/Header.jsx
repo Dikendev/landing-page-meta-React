@@ -1,6 +1,6 @@
 import React from 'react';
 import people from '../../assets/people.png';
-// import meta from '../../assets/meta.png';
+import meta from '../../assets/meta.png';
 import './header.css';
 
 function Header() {
@@ -22,9 +22,9 @@ function Header() {
           <p>Lorem ipsum dolor sit amet consectetur.</p> 
         </div>
       </div>
-      {/* <div className='header__header-img'>
+      <div className='header__header-image'>
         <img src={meta} alt="AI" />
-      </div> */}
+      </div>
     </div>
   )
 }
