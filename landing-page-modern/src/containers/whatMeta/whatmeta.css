@@ -52,10 +52,34 @@
   flex-wrap: wrap;
 }
 
+@media screen and (max-width: 880px) {
+  .meta__whatmeta-container {
+    flex-direction: column;
+  }
+  
+  .meta__whatmeta-container.meta__features-container__feature {
+    flex-direction: row;
+  }
+ } 
 
 
-/*
-mobile for whatmeta feature sections 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 995px) {
+  
+  .meta__whatmeta-heading h1 {
+    font-size: 28px;
+    line-height: 30px;
+  }
 
-} */
+  .meta__whatmeta-heading p {
+    font-size: 13px;
+
+  }
+
+  .meta__whatmeta-container h1 {
+    font-size: 18px;
+  }
+
+  .meta__whatmeta-container p {
+    font-size: 13px;
+  }
+ } 

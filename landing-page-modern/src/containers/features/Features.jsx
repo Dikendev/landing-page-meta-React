@@ -1,23 +1,23 @@
 import React from 'react';
 import {Feature} from '../../components';
-import './feature.css';
+import './features.css';
 
 const featuresData = [
   {
     title: "Improving and distribuing",
-    text: "From all the name1"
+    text: "From all the name1 sdsdsd s dsdsds s sdsdsdsd sdsdsd sdsds sdsdsd sdsds sddsd sdsd sd sds sd ds ds sdsdsd sd sdsds "
   },
   {
     title: "Lets make a new awe",
-    text: "From all the name2"
+    text: "lorem20 sd sdsdsds  sdsdsds s sdsds s sdsds s sdsds sdsds sdsdsds dsdsds dssdsdsd sd sd sds dsds dsdsdsds sdsd"
   },
   {
     title: "Agora é serio haha",
-    text: "From all the name3"
+    text: "From all the name3 aleara slad as sdsds  sdadsa sdsad"
   },
   {
     title: "All the country",
-    text: "From all the name4"
+    text: "From all the name1 sdsdsd s dsdsds s sdsdsdsd sdsdsd sdsds sdsdsd sdsds sddsd sds sdsdss sdsdsd sdsds sdsds dsd sdsdsd name4"
   }
 ]
 

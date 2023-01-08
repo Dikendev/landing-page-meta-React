@@ -5,7 +5,7 @@ import './whatmeta.css';
 const featuresData = [
   {
     title: "Inteligência Artificial",
-    text: "Intelsdsdsdsdsdsdsdsdsddsdsdsdsdsdsdsdigencia artifical"
+    text: "Intels dsdsds dsdsdsds dsddsdsds dsdsds dsdigencia artifical"
   }, 
   {
     title: "Algo interessante",
