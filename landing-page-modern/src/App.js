@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 
-import {Header,Footer,Blog,Features} from './containers';
+import {Header,Footer,Blog,WhatMeta} from './containers';
 import {Brand,Navbar,Cta} from './components';
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
         <Header/>
       </div>
       <Brand/>
-      <Features/>
+      <WhatMeta/>
       <Cta/>
       <Blog/>
       <Footer/>

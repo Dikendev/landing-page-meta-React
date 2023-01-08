@@ -7,7 +7,7 @@ function Menu() {
   return (
     <>
       <p> <a href="#home">Home</a></p>
-      <p> <a href="#home">Sec 2</a></p>
+      <p> <a href="#whpt3">Meta</a></p>
       <p> <a href="features">About</a></p>
       <p> <a href="#Blog">Fale Conosco</a></p>
     </>      
