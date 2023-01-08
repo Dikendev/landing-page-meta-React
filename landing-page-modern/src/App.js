@@ -1,21 +1,23 @@
 import React from 'react';
 import './App.css';
 
-import {Header,Footer,Blog,WhatMeta} from './containers';
+import {Header,Footer,Blog,WhatMeta,Features,Possibility} from './containers';
 import {Brand,Navbar,Cta} from './components';
 
 function App() {
   return (
     <div className="App">
       <div className="gradient-bg">
-        <Navbar/>
-        <Header/>
+        <Navbar />
+        <Header />
       </div>
-      <Brand/>
-      <WhatMeta/>
-      <Cta/>
-      <Blog/>
-      <Footer/>
+      <Brand />
+      <WhatMeta />
+      <Features />
+      <Possibility />
+      <Cta />
+      <Blog />
+      <Footer />
     </div>
   );
 }

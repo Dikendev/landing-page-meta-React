@@ -1,15 +1,15 @@
-import React, {useState} from 'react';
-import {RiMenu3Line, RiCloseLine} from 'react-icons/ri';
+import React, { useState } from 'react';
+import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
 import logo from '../../assets/logo.svg'
 import './navbar.css';
 
 function Menu() {
-  return (
+  return(
     <>
-      <p> <a href="#home">Home</a></p>
-      <p> <a href="#whpt3">Meta</a></p>
-      <p> <a href="features">About</a></p>
-      <p> <a href="#Blog">Fale Conosco</a></p>
+      <p><a href="#home">Home</a></p>
+      <p><a href="#whpt3">Meta</a></p>
+      <p><a href="#features">About</a></p>
+      <p><a href="#blog">Fale Conosco</a></p>
     </>      
   )
 }
@@ -22,7 +22,7 @@ function Navbar() {
       
       <div className="meta__navbar-links">
         <div className="meta__navbar-links_log"o>
-          <img src = {logo} alt="logo" />
+          <img src= { logo } alt="logo" />
         </div>
         <div className="meta__navbar-links_container">
           <Menu/>

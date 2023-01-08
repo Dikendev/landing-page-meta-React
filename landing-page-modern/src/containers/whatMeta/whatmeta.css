@@ -22,7 +22,6 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-
   margin: 4rem 0 2rem;
 }
 
@@ -43,12 +42,20 @@
 
 .meta__whatmeta-container {
   display: flex;
-  flex-wrap: wrap;
   flex-direction: row;
-
-  margin-top: 1rem;
 }
 
+.meta__whatmeta-container .meta__features-container__feature {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+
+
+/*
+mobile for whatmeta feature sections 
 @media screen and (max-width: 350px) {
-  
-}
+
+} */

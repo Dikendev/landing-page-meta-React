@@ -1,10 +1,16 @@
 import React from 'react';
 import './feature.css';
 
-function Feature() {
+function Feature({title, text}) {
   return (
-    <div>
-      Feature working on
+    <div className='meta__features-container__feature'>
+      <div className="meta__features-container__feature-title">
+        <div />
+        <h1>{title}</h1>
+      </div>
+      <div className='meta__features-container_feature-text'>
+        <p>{text}</p>
+      </div>
     </div>
 )
 }
