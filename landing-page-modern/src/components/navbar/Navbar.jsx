@@ -9,6 +9,7 @@ function Menu() {
       <p><a href="#home">Home</a></p>
       <p><a href="#whpt3">Meta</a></p>
       <p><a href="#features">About</a></p>
+      <p><a href="#possibility">Get Started</a></p>
       <p><a href="#blog">Fale Conosco</a></p>
     </>      
   )

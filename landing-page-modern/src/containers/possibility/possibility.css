@@ -54,14 +54,20 @@
 
 @media screen and (max-width: 950px) {
   .meta__possibility {
-    flex-direction: column;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+
   }
 
   .meta__possibility-image {
     margin: 1rem 0;
+    width: 60%;
+    justify-content: center;
+    align-items: center;
   }
 
   .meta__possibility-content {
-    margin-top: 2rem;
+    margin: 0rem 0rem 0rem 2rem; 
   }
 }

@@ -4,7 +4,7 @@ import {google, slack, atlassian, dropbox, shopify} from './imports';
 
 function Brand(){
     return (
-        <div className='meta__brand section__padding'>
+        <div className='meta__brand section__margin'>
             <div>
                 <img src={google} alt="google" />
             </div>
