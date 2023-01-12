@@ -5,7 +5,7 @@ import './blog.css';
 
 function Blog() {
   return(
-    <div className="meta__blog section__margin" id="blog">
+    <div className="meta__blog section__margin section__padding" id="blog">
       <div className="meta__blog-heading">
         <h1 className="gradient__text">
           Alot is happening,

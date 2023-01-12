@@ -4,11 +4,12 @@
 }
 
 .meta__possibility-image {
-  flex: 1;
+  flex: 0.43;
   display: flex;
   justify-content: flex-start;
   align-items: center;
-
+  width: 50%;
+  height: 50%;
   margin-right: 2rem;
 }
 
@@ -19,7 +20,7 @@
 
 
 .meta__possibility-content {
-  flex: 1;
+  flex: 0.43;
   display: flex;
   flex-direction: column;
   justify-content: center;
