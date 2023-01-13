@@ -131,16 +131,10 @@
 }
 
 @media screen and (max-width: 700px) {
-  .meta__navbar {
-    padding: 2rem 3rem;
-  }
+
 }
 
 @media screen and (max-width: 550px) {
-  .meta__navbar {
-    padding: 2rem;
-  }
-
   .meta__navbar-sign {
     display: none;
   }

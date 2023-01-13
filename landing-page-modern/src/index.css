@@ -84,13 +84,13 @@ a {
   }
 
   .section__padding {
-    padding: 1rem;
+    padding: 4rem;
   }
 }
 
 @media screen and (max-width: 550px) {
   .section__padding{
-    padding: 1rem 2.5rem;
+    padding: 3rem 2.5rem;
   }
 }
 
