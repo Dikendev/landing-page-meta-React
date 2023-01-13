@@ -2,8 +2,10 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-
-  padding: 1rem 4rem;
+  position: fixed;
+  padding: 0.4rem 4rem;
+  /* background: radial-gradient(circle at 6% 12%, rgba(0, 27, 177, 1) 0%, rgba(58, 82, 213, 1) 0%, rgba(4, 14, 66, 1) 100%); */
+  width: 100%;
 }
 
 .meta__navbar-links {
@@ -38,7 +40,7 @@
 .meta__navbar-links_container p,
 .meta__navbar-sign p,
 .meta__navbar-menu_container p{
-  color: #fff;
+  color: rgba(255, 255, 255, 0.692);
   font-weight: 500;
   font-size: 18px;
   line-height: 25px;

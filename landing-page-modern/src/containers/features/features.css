@@ -1,3 +1,8 @@
+.meta__feature-container {
+  width: 100%;
+  padding-top: 1.5rem;
+}
+
 .meta__features {
   display: flex;
   justify-content: space-between;

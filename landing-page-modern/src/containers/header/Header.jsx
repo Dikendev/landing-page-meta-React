@@ -8,10 +8,10 @@ function Header() {
     <div className='meta__header section__padding' id='home'>
       <div className='meta__header-content'>
         <h1 className='gradient__text'>
-          Lets Build a METAVERSE Together
+          Vamos construir um METAVERSO Juntos?
         </h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae saepe praesentium ab delectus aspernatur deserunt iste ipsa explicabo, tempora eos cumque iusto voluptate sapiente minima quae. Sapiente impedit facilis perferendis?
+          Metaverso é a terminologia utilizada para indicar um tipo de mundo virtual que tenta replicar a realidade através de dispositivos digitais. É um espaço coletivo e virtual compartilhado, constituído pela soma de "realidade virtual", "realidade aumentada" e "Internet"
         </p>
         <div className='meta__header-content__input'>
           <input type="email" placeholder='Your best Email' />
@@ -19,7 +19,7 @@ function Header() {
         </div>
         <div className='meta__header-content_people'>
           <img src={people} alt="people"/>  
-          <p>Lorem ipsum dolor sit amet consectetur.</p> 
+          <p>1.6k pessoas assinaram neste mês</p> 
         </div>
       </div>
       <div className='header__header-image'>

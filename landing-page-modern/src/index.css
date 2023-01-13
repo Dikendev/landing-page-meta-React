@@ -69,11 +69,13 @@ a {
 }
 
 .section__margin {
-  margin: 1rem 6rem;
+  /* topo // direita // inferior // esquerda */
+  margin: 4rem 6rem 1rem  6rem;
 }
 
 .section__padding{
-  padding: 1.2rem 4rem;
+  padding: 3rem 4rem 0rem 4rem;
+  /* padding: 1.2rem 4rem; */
 }
 
 @media screen and (max-width: 885px) {

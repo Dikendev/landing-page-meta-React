@@ -23,19 +23,21 @@ const featuresData = [
 
 function Features() {
   return (
-    <div className="meta__features section__margin section__padding " id="features">
-      <div className="meta__features-heading">
-        <h1 className="gradient__text">
-          The Furure is Now and You  Just Need to Realize it. Step into Future Today & Make it Happen.
-        </h1>
-        <p>Request Early Access to Get Started</p>
-      </div>
-      <div className="meta__features-container">
-        {featuresData.map((item,index) => (
-          <Feature title={item.title} text={item.text} key={item.title + index} />
-        ))}
-      </div>
-    </div> 
+    <div className="meta__feature-container" id="features">
+      <div className="meta__features section__margin section__padding " >
+        <div className="meta__features-heading">
+          <h1 className="gradient__text">
+            Coisas novas estão acontecendo agora, olhe o seu GITHUB e seu Linkedin para mais novidades
+          </h1>
+          <p>Acesso antecipado disponível para assinantes</p>
+        </div>
+        <div className="meta__features-container">
+          {featuresData.map((item,index) => (
+            <Feature title={item.title} text={item.text} key={item.title + index} />
+          ))}
+        </div>
+      </div> 
+    </div>
   )
 }
 

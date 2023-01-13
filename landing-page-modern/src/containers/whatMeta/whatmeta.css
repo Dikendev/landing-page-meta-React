@@ -1,8 +1,14 @@
 .meta__whatmeta {
   display: flex;
   flex-direction:column;
-
   background: radial-gradient(circle at 6% 12%, rgba(0, 27, 177, 1) 0%, rgba(58, 82, 213, 1) 0%, rgba(4, 14, 66, 1) 100%);
+  padding-top: 4rem;
+  padding-bottom: 3rem;
+}
+
+.meta__box{
+  width: 100%;
+  padding-top: 2rem;
 }
 
 .meta__whatmeta-feature {

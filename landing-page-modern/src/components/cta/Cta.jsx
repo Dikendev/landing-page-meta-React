@@ -3,8 +3,8 @@ import './cta.css';
 
 function Cta() {
     return (
-        <div className="meta__cta section__padding section__margin">
-            <div className="meta__meta-content">
+        <div className="meta__cta section__margin">
+            <div className="meta__cta-content">
                 <p>Request Early Access to Get</p>
                 <h3>Register today & start exploring the endless possibilities</h3>
             </div>
