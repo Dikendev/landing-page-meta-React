@@ -1,5 +1,5 @@
 import React from 'react';
-import possibilityImage from '../../assets/metaimage.jpg';
+import possibilityImage from '../../assets/metamulher.jpg';
 import './possibility.css';
 
 function Possibility() {
