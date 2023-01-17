@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/landing-page-meta-React/static/css/main.d25dd812.css",
+    "main.js": "/landing-page-meta-React/static/js/main.7cae68c1.js",
+    "static/media/metamulher.jpg": "/landing-page-meta-React/static/media/metamulher.ada8b66550a5668d0f4e.jpg",
+    "static/media/blog01.png": "/landing-page-meta-React/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/landing-page-meta-React/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/landing-page-meta-React/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/landing-page-meta-React/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/landing-page-meta-React/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/meta.png": "/landing-page-meta-React/static/media/meta.be38fef33121ec89e7f8.png",
+    "static/media/people.png": "/landing-page-meta-React/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/landing-page-meta-React/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/landing-page-meta-React/index.html",
+    "main.d25dd812.css.map": "/landing-page-meta-React/static/css/main.d25dd812.css.map",
+    "main.7cae68c1.js.map": "/landing-page-meta-React/static/js/main.7cae68c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d25dd812.css",
+    "static/js/main.7cae68c1.js"
+  ]
+}
